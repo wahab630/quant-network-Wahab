@@ -1,0 +1,34 @@
+
+.hero-heading{
+    color: #43403EFF;
+}
+.hero-head{
+    font-size: 91px;
+    display: inline-block;
+}
+.h-para{
+    font-size: 80px;
+    color: #e54633; 
+    display: inline-block;
+}
+
+.hero-btn{
+    margin-top: 40px;
+}
+button{
+    border: 2px solid #f15922;
+    background-color: white;
+    border-radius: 0px 20px 0px 20px;
+    padding: 10px 20px;
+    font-weight: bold;
+}
+video{
+    height: auto;
+    width: 100%;
+    border-radius: 100px 0px 0px 0px;
+}
+.hero-t{
+    margin-top: 50px;
+}
+
+

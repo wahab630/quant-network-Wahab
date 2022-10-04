@@ -1,0 +1,18 @@
+.nav-item{
+    position: relative;
+   
+    display: inline-block;
+
+    .dropdown-content-one,.dropdown-content-one{
+        display: none;
+        position: absolute;
+        top: 2rem;
+        left: 0;
+    }
+
+    &:hover{
+        .dropdown-content-one,.dropdown-content-one{
+            display: inline-block;
+        }
+    }
+}

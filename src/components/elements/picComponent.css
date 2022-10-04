@@ -1,0 +1,19 @@
+.pic-h1{
+    font-size: 80px;
+    
+}
+.pic-p1 {
+    font-size: 21px;       
+}
+
+.pic-section{
+   text-align: center;
+   
+   padding-top: 100px;
+   padding-bottom: 100px;
+   color: white;
+   
+}
+.pic-component{
+    background-image: url('https://quant.network/assets/uploads/2022/03/london-areal.jpg');
+}
