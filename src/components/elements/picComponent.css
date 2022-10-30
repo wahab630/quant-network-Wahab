@@ -2,6 +2,12 @@
     font-size: 80px;
     
 }
+@media only screen and (max-width: 600px){
+	.pic-h1{
+        font-size: 32px;
+        
+    }
+}
 .pic-p1 {
     font-size: 21px;       
 }

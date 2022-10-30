@@ -1,18 +1,26 @@
 
 .first-heading{
-    font-size: 70px;
+    font-size: 4.25rem;
 }
 .first-para{
-     font-size: 21px;
-     margin-bottom: 0px;
-     padding-bottom: 0px;
+     font-size: 1.375rem;     
 }
 .f-image{
-    height: 540px;
-    width: 550px;
+    height: auto;
+    width: 100%;
     
 }
 .fourcomp{
     margin-top: 100px;
     margin-bottom: 100px;
+}
+@media screen and (max-width: 600px) {
+    
+.first-heading{
+    font-size: 2.688rem;
+}
+.first-para{
+    font-size: 1.188rem;     
+}
+
 }

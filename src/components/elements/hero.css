@@ -13,7 +13,7 @@
 }
 
 .hero-btn{
-    margin-top: 40px;
+    margin-top: 20px;
 }
 button{
     border: 2px solid #f15922;
@@ -21,6 +21,7 @@ button{
     border-radius: 0px 20px 0px 20px;
     padding: 10px 20px;
     font-weight: bold;
+    font-size: 17px;
 }
 video{
     height: auto;
@@ -32,3 +33,14 @@ video{
 }
 
 
+@media only screen and (max-width: 600px){
+	.hero-head{
+        font-size: 40px;
+        display: inline-block;
+    }
+    .h-para{
+        font-size: 32px;
+       
+        display: inline-block;
+    }
+}
