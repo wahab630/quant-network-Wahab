@@ -13,7 +13,7 @@ const FirstComponent = () => {
           <div className="col-md-6 hero-right">
             <h2
               className="fw-bold first-heading opacity-1  aos-animate"
-              data-aos="fade-up"
+              data-aos="fade-down"
               data-aos-duration="2000"
             >
               Unlocking the power of blockchain for everyone

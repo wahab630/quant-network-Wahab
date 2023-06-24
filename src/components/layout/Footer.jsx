@@ -73,7 +73,7 @@ const Footer = () => {
           <div className="col-md-6">
             <img
               className="logo-image"
-              src="https://www.altcoinbuzz.io/wp-content/uploads/2021/01/quant-network-logo.jpg"
+              src="assets/quant-network-logo.jpg"
               alt=""
             />
             <br />

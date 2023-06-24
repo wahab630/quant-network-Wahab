@@ -5,21 +5,23 @@ const Flow = () => {
   return (
     <div className="container ">
       <div className="row">
-        <div className="col-md-3 one-column aos-animate" data-aos="fade-right"
-     data-aos-duration="2000">
-          <h4 className="fw-bold mb-3 first-h3  " 
-     >
-            {" "}
-            Financial institutions
-          </h4>
-          <p  >
+        <div
+          className="col-md-3 one-column aos-animate"
+          data-aos="fade-right"
+          data-aos-duration="2000"
+        >
+          <h4 className="fw-bold mb-3 first-h3  "> Financial institutions</h4>
+          <p>
             Banks, investment firms, and other financial institutions, are
             harnessing blockchain to exchange information and assets more
             securely and cost-effectively.
           </p>
         </div>
-        <div className="col-md-3 one-column aos-animate"  data-aos="fade-right"
-     data-aos-duration="2000">
+        <div
+          className="col-md-3 one-column aos-animate"
+          data-aos="fade-right"
+          data-aos-duration="2000"
+        >
           <h4 className="fw-bold mb-3"> Enterprises</h4>
           <p>
             Blockchain enables companies operating in multiple markets to
@@ -28,8 +30,11 @@ const Flow = () => {
             challenges, or raising capital.
           </p>
         </div>
-        <div className="col-md-3 one-column aos-animate"  data-aos="fade-right"
-     data-aos-duration="2000">
+        <div
+          className="col-md-3 one-column aos-animate"
+          data-aos="fade-right"
+          data-aos-duration="2000"
+        >
           <h4 className="fw-bold mb-3"> Partners</h4>
           <p>
             Whether you’re a platform provider, an independent software vendor,
@@ -38,8 +43,11 @@ const Flow = () => {
             specialist knowledge required to realise them. We’re here to help.
           </p>
         </div>
-        <div className="col-md-3 one-column aos-animate"  data-aos="fade-right"
-     data-aos-duration="2000">
+        <div
+          className="col-md-3 one-column aos-animate"
+          data-aos="fade-right"
+          data-aos-duration="2000"
+        >
           <h4 className="fw-bold mb-3"> Developers</h4>
           <p>
             Are you one of the few developers in the world who understands all

@@ -15,53 +15,27 @@ const Header = () => {
       <ul className="navbar-nav ms-auto  mb-lg-0">
 
         <li className='nav-item active'>
-          <a href="/" className='nav-link'>Who we serve</a>
-          <div className='dropdown-content-one'>
-          <li>Financial institutions</li>
-          <li>Enterprises</li>
-          <li>Partners</li>
-          <li>  Developers</li>
-          </div>         
+          <a href="/" className='nav-link'>Who we serve</a>                 
         </li>
 
         <li className='nav-item active'>
           <a href="/" className='nav-link'>What we do</a>
-          <div className='dropdown-content-one'>
-          <li>Financial institutions</li>
-          <li>Enterprises</li>
-          <li>Partners</li>
-          <li>  Developers</li>
-          </div>         
+                 
         </li>
 
         <li className='nav-item active'>
           <a href="/" className='nav-link'>Why it matters</a>
-          <div className='dropdown-content-one'>
-          <li>Financial institutions</li>
-          <li>Enterprises</li>
-          <li>Partners</li>
-          <li>  Developers</li>
-          </div>         
+                
         </li>
 
         <li className='nav-item active'>
           <a href="/" className='nav-link'>About us</a>
-          <div className='dropdown-content-one'>
-          <li>Financial institutions</li>
-          <li>Enterprises</li>
-          <li>Partners</li>
-          <li>  Developers</li>
-          </div>         
+                  
         </li>
 
         <li className='nav-item active'>
           <a href="/" className='nav-link'>Who we serve</a>
-          <div className='dropdown-content-one'>
-          <li>Financial institutions</li>
-          <li>Enterprises</li>
-          <li>Partners</li>
-          <li>  Developers</li>
-          </div>         
+                 
         </li>
 
      </ul>

@@ -7,8 +7,11 @@ const SixColumn = () => {
       <div className="container fourcomp">
         <div className="row">
           <div className="col-md-12 mb-4">
-            <h1 className="fw-bold sixCol-heading opacity-1 aos-animate" data-aos="fade-up"
-     data-aos-duration="2000">
+            <h1
+              className="fw-bold sixCol-heading opacity-1 aos-animate"
+              data-aos="fade-up"
+              data-aos-duration="2000"
+            >
               Create value, reduce <br /> costs, mitigate risk
             </h1>
           </div>
